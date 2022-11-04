@@ -1,0 +1,8 @@
+C:\Users\nico6\OneDrive\C#\Users pc 0015\user\user\bin\Debug\user.exe.config
+C:\Users\nico6\OneDrive\C#\Users pc 0015\user\user\bin\Debug\user.exe
+C:\Users\nico6\OneDrive\C#\Users pc 0015\user\user\bin\Debug\user.pdb
+C:\Users\nico6\OneDrive\C#\Users pc 0015\user\user\obj\Debug\user.csproj.AssemblyReference.cache
+C:\Users\nico6\OneDrive\C#\Users pc 0015\user\user\obj\Debug\user.csproj.SuggestedBindingRedirects.cache
+C:\Users\nico6\OneDrive\C#\Users pc 0015\user\user\obj\Debug\user.csproj.CoreCompileInputs.cache
+C:\Users\nico6\OneDrive\C#\Users pc 0015\user\user\obj\Debug\user.exe
+C:\Users\nico6\OneDrive\C#\Users pc 0015\user\user\obj\Debug\user.pdb
